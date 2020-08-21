@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a student/developer based in Toronto / Scarborough :maple_leaf:
-Current aiming to be a full-stack developer. (hire me c:)
-The stacks I :heart: are:
+<br/>Currently aiming to be a full-stack developer. (hire me c:)
+<br/>
+<br/>The stacks I :heart: are:
 - React
 - GraphQL
 - TypeScript
