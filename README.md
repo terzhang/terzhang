@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm current trying to be a full-stack developer. Hire me if you like me enough.
+I'm a student/developer based in Toronto / Scarborough :maple_leaf:
+Current aiming to be a full-stack developer. (hire me c:)
 The stacks I :heart: are:
 - React
 - GraphQL
@@ -23,7 +23,7 @@ The stacks I :heart: are:
 - Postgres
 
 ## Find me scattered around the web
-- My Discord where I'm usually active Tewwy#4068 or join my dev [server](https://discord.gg/VWMsnhx)
+- My Discord is where I'm usually active Tewwy#4068 or join my dev [server](https://discord.gg/VWMsnhx)
 - Posting random things on Twitter [@terrytewwy](https://twitter.com/tewwyterry)
 - Occassionally [LinkedIn](https://www.linkedin.com/in/terzhang)
 - Catch me streaming games/coding on [Twitch](https://www.twitch.tv/tewwytewwy)
