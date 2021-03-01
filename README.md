@@ -24,5 +24,4 @@ I'm a student/developer based in Toronto / Scarborough :maple_leaf:
 - Postgres
 
 ## Find me scattered around the web
-- My Discord is where I'm usually active Tewwy#4068 or join my dev [server](https://discord.gg/cyY4Tbj)
-- Occassionally [LinkedIn](https://www.linkedin.com/in/terzhang)
+- TBA
