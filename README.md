@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a student/developer based in Toronto / Scarborough :maple_leaf:
-<br/>Currently aiming to be a full-stack developer. (hire me c:)
+I'm a developer based in Toronto / Scarborough :maple_leaf:
 <br/>
 <br/>The stacks I :heart: are:
+- TypeScript
 - React
 - GraphQL
-- TypeScript
 - Postgres
-
-## Find me scattered around the web
-- TBA
+<br/>
+I'm current navigating through the world of DevOps.
+Talk to me about:
+- Linux (RHEL and Fedora)
+- Ansible
+- OpenAPI
