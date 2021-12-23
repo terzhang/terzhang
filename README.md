@@ -28,5 +28,6 @@ Talk to me about:
 <br/>
 
 - Linux (RHEL and Fedora)
+- Docker
 - Ansible
 - OpenAPI
