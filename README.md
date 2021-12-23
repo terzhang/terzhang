@@ -18,12 +18,15 @@ I'm a developer based in Toronto / Scarborough :maple_leaf:
 <br/>
 <br/>The stacks I :heart: are:
 - TypeScript
-- React
+- React / Vue
 - GraphQL
 - Postgres
-<br/>
-I'm current navigating through the world of DevOps.
+
+<br/>I'm current navigating through the world of DevOps!
+
 Talk to me about:
+<br/>
+
 - Linux (RHEL and Fedora)
 - Ansible
 - OpenAPI
