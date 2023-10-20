@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a developer based in Toronto / Scarborough :maple_leaf:
+I'm a developer based in Toronto :maple_leaf:
 <br/>
 <br/>The stacks I :heart: are:
 - TypeScript
